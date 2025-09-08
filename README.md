@@ -5,7 +5,7 @@ A Layered Cognitive Model for Cultural and Computational Simulation of Identity
 
 Author: Yu Fu Wang | Email: zax903wang@gmail.com | ORCID: 0009-0001-3961-2229
 Date: 2025-09-03 | Working Paper: SSRN submission
-Keywords: MSPF (Multi-System Persona Framework); MFSF (Multi-Faction Stylometry Framework); TCCS (Trinity Cognitive Construct System); Cognitive Twin; Stylometry; Psychometrics; Cultural Cognition; Auditability; AI Ethics; OSINT 10.5281/zenodo.17076085
+Keywords: MSPF (Multi-System Persona Framework); MFSF (Multi-Faction Stylometry Framework); TCCS (Trinity Cognitive Construct System); Cognitive Twin; Stylometry; Psychometrics; Cultural Cognition; Auditability; AI Ethics; OSINT; 10.5281/zenodo.17076085; 10.17605/OSF.IO/5B7JF
 Primary JEL Codes: L86; C63; D83
 Secondary JEL Codes: C45; C55; D71; O33; M15
 
